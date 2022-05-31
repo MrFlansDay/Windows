@@ -1,0 +1,10 @@
+D:\Visual studio\Repos\Окна3\Окна3\bin\Debug\Окна3.exe.config
+D:\Visual studio\Repos\Окна3\Окна3\bin\Debug\Окна3.exe
+D:\Visual studio\Repos\Окна3\Окна3\bin\Debug\Окна3.pdb
+D:\Visual studio\Repos\Окна3\Окна3\obj\Debug\Окна3.csproj.AssemblyReference.cache
+D:\Visual studio\Repos\Окна3\Окна3\obj\Debug\Окна3.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\Repos\Окна3\Окна3\obj\Debug\Окна3.csproj.CoreCompileInputs.cache
+D:\Visual studio\Repos\Окна3\Окна3\obj\Debug\Окна3.exe
+D:\Visual studio\Repos\Окна3\Окна3\obj\Debug\Окна3.pdb
+D:\Visual studio\Repos\Окна3\Окна3\bin\Debug\Database1.mdf
+D:\Visual studio\Repos\Окна3\Окна3\bin\Debug\Database1_log.ldf
